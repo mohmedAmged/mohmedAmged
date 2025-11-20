@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building modern, responsive web apps with Next.js & React.<br><br>👯 I’m looking to collaborate on:<br>Frontend projects, UI/UX-focused apps, and Next.js tools.<br><br>🤝 I’m looking for help with:<br>Growing my open-source contributions and improving best practices.<br><br>🌱 I’m currently learning:<br>Advanced Next.js patterns, performance optimization, and TypeScript.<br><br>💬 Ask me about:<br>React, Next.js, Tailwind, animations, API integration, and UI development.<br><br>⚡ Fun fact:<br>I can spend hours perfecting tiny UI details—because the small things matter.
+🔭 I’m currently working on:<br>Building modern, responsive web apps with Next.js & React.<br><br>👯 I’m looking to collaborate on:<br>Frontend projects, UI/UX-focused apps, and Next.js tools.<br><br>🤝 I’m looking for help with:<br>Growing my open-source contributions and improving best practices.<br><br>🌱 I’m currently learning:<br>Advanced Next.js patterns, performance optimization, TypeScript, Node.js, and Express.js.<br><br>💬 Ask me about:<br>React, Next.js, Tailwind, animations, API integration, and UI development.<br><br>⚡ Fun fact:<br>I can spend hours perfecting tiny UI details—because the small things matter.
 
 
 ## 🌐 Socials:
